@@ -1,4 +1,4 @@
-# GenArtTutorials
+# Generative Art Tutorials
 home to all the generative art code I create for YouTube and IG tutorials
 
 
