@@ -1,8 +1,8 @@
 # Generative Art Tutorials
-home to all the generative art code I create for YouTube and IG tutorials
+home to some of the generative art code I create for YouTube and IG tutorials
 
 
-simply search for the tutorial's title on YouTube or Instagram and you'll find the associated code
+The code should have the same title as the video or post.
 
 
 ## Content
