@@ -9,3 +9,4 @@ The code should have the same title as the video or post.
 - points on a circle
 - recursive circles
 - wavy lines
+- Sine grids
