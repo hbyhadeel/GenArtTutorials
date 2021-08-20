@@ -10,3 +10,4 @@ The code should have the same title as the video or post.
 - Recursive circles
 - Wavy lines
 - Sine grids
+- Data Visualization
