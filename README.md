@@ -11,3 +11,4 @@ The code should have the same title as the video or post.
 - Wavy lines
 - Sine grids
 - Data Visualization
+- Secret Messages
