@@ -12,3 +12,4 @@ The code should have the same title as the video or post.
 - Sine grids
 - Data Visualization
 - Secret Messages
+- Loading Text Files
