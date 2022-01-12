@@ -2,7 +2,7 @@
 home to some of the generative art code I create for YouTube and IG tutorials
 
 
-The code should have the same title as the video or post.
+The code should have a similar title to the video or post.
 
 
 ## Content
@@ -13,3 +13,6 @@ The code should have the same title as the video or post.
 - Data Visualization
 - Secret Messages
 - Loading Text Files
+- Genuary 2022 - Space Prompt
+- Genuary 2022 - The Next Next Fidenza Prompt (coming soon)
+- Genuary 2022 - Destroy a Square Prompt (coming soon)
