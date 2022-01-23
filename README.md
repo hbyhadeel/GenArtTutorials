@@ -15,4 +15,4 @@ The code should have a similar title to the video or post.
 - Loading Text Files
 - Genuary 2022 - Space Prompt
 - Genuary 2022 - The Next Next Fidenza Prompt
-- Genuary 2022 - Destroy a Square Prompt (coming soon)
+- Genuary 2022 - Destroy a Square Prompt
