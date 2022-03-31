@@ -2,9 +2,6 @@
 home to some of the generative art code I create for YouTube and IG tutorials
 
 
-The code should have a similar title to the video or post.
-
-
 ## Content
 - Points on a circle
 - Recursive circles
@@ -16,3 +13,4 @@ The code should have a similar title to the video or post.
 - Genuary 2022 - Space Prompt
 - Genuary 2022 - The Next Next Fidenza Prompt
 - Genuary 2022 - Destroy a Square Prompt
+- 36 Days of Type 09 - Follow Paths
